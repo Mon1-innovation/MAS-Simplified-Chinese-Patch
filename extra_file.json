@@ -1,4 +1,10 @@
-{
+{   
+    "base_files":[
+        [
+            "ddlc.zip",
+            "http://sp2.0721play.icu/d/MAS/DDLC/ddlc-win.zip"
+        ]
+    ],
     "extra_files": [
         [
             "\u6c49\u5316\u8bf4\u660e.txt",
