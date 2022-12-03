@@ -1,1 +1,16 @@
-{"extra_files": [["\u6c49\u5316\u8bf4\u660e.txt", "https://raw.githubusercontent.com/Mon1-innovation/MAS-Simplified-Chinese-Patch/main/%E6%B1%89%E5%8C%96%E8%AF%B4%E6%98%8E.txt", "./", null], ["sp_zhcn.zip", "https://raw.githubusercontent.com/Mon1-innovation/MAS-Simplified-Chinese-Patch/main/sp_cn_0.12.9.zip", "./cache", "EXTRACT_EXTRA"]]}
+{
+    "extra_files": [
+        [
+            "\u6c49\u5316\u8bf4\u660e.txt",
+            "https://raw.githubusercontent.com/Mon1-innovation/MAS-Simplified-Chinese-Patch/main/%E6%B1%89%E5%8C%96%E8%AF%B4%E6%98%8E.txt",
+            "./",
+            null
+        ],
+        [
+            "sp_zhcn.zip",
+            "http://sp2.0721play.icu/d/MAS/MAS-PC/%E7%B2%BE%E7%81%B5%E5%8C%85%E6%B1%89%E5%8C%96.zip",
+            "./cache",
+            "EXTRACT_EXTRA"
+        ]
+    ]
+}
