@@ -1,5 +1,5 @@
-{   
-    "base_files":[
+{
+    "base_files": [
         [
             "ddlc.zip",
             "http://sp2.0721play.icu/d/MAS/DDLC/ddlc-win.zip"
@@ -14,9 +14,16 @@
         ],
         [
             "sp_zhcn.zip",
-            "http://sp2.0721play.icu/d/MAS/MAS-PC/%E7%B2%BE%E7%81%B5%E5%8C%85%E6%B1%89%E5%8C%96.zip",
+            "https://raw.githubusercontent.com/Mon1-innovation/MAS-Simplified-Chinese-Patch/main/sp_cn_0.12.9.zip",
             "./cache",
             "EXTRACT_EXTRA"
+        ],
+        [
+            "zz_cardgames.rpy",
+            "http://sp2.0721play.icu/d/MAS/MAS-PC/zz_cardgames.rpy",
+            "./cache/ddlc.zip_files/DDLC-1.1.1-pc/game",
+            "ASK_DOWNLOAD",
+            "\u56e0\u4e3a\u5386\u53f2\u539f\u56e0\uff0cNOU\u5c0f\u6e38\u620f\u7684\u6700\u65b0\u7248\u672a\u7ffb\u8bd1\uff0c\u672c\u6587\u4ef6\u4f1a\u5c06\u6c49\u5316\u8fc7\u7684\u65e7\u7248\u672c\u7528\u4e8e\u66ff\u6362\u65b0\u7248\uff0c\u6e38\u620f\u5185\u4f1a\u63d0\u793a\u68c0\u6d4b\u5230rpy\u6587\u4ef6\uff0c\u4fdd\u7559\u5373\u53ef"
         ]
     ]
 }
