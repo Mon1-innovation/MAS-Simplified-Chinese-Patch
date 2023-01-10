@@ -1,0 +1,7 @@
+更新游戏本体：
+1. 删除game/masrun文件，然后运行MasInstaller.exe
+  本方法将会使用最新版可执行mas覆盖你的游戏文件夹，一般不会影响submod和精灵包。但如果你的submod本身有问题，此方法不能解决问题，你需要一个新文件夹并单独运行MasInstaller.exe
+2. 重新下载完整包
+更新汉化补丁：
+1. 直接运行MasInstaller.exe,然后选择重装最新版补丁选项
+2. 从https://github.com/Mon1-innovation/MAS-Simplified-Chinese-Patch/releases/latest下载补丁文件，并替换本地的两个同名文件
