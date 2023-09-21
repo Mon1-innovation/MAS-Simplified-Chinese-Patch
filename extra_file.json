@@ -2,10 +2,6 @@
     "base_files": [
         [
             "ddlc.zip",
-            "http://sp2.0721play.icu/d/MAS/DDLC/ddlc-win.zip"
-        ],
-        [
-            "ddlc.zip",
             "https://disk.monika.love/api/v3/file/get/2795/ddlc-win.zip?sign=HB_y2aCFJt_sgz67a3yBHODv3i97N1TxBpc2k_cfRxM%3D%3A0"
         ],
         [
